@@ -1,5 +1,7 @@
 # Operation Protagonist
-## Become the protagonist of your own instagram.
+## Become the protagonist of your Instagram
+
+![](https://y.yarn.co/d3eef4fd-e397-4f4f-832c-1afe4fbab895_text.gif)
 
 Feeling petty??
 
@@ -30,6 +32,6 @@ node index.js
 
 And you should see a file named `findPeopleWhoDontFollowYouBack.json`. 
 
-Now you can unfollow all your secrete haters!
+Now you can unfollow all your secret haters!
 
 One Caveat: make sure 2-factor auth is turned off when you run this and turn it back on when you're done otherwise the script won't run properly.
